@@ -1,0 +1,24 @@
+/*
+### Self Check
+
+- Does each element have a unique class name?
+- Did you use the grouping selector for styles that both elements share?
+- Did you make separate rules for the styles unique to each element?
+
+*/
+
+.button1,
+.button2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.button1 {
+    color: white;
+    background-color: black;
+}
+
+.button2 {
+    background-color: yellow;
+}
+
